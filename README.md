@@ -1,2 +1,4 @@
 # HELLO_WORLD
-Repositório teste
+Repositório teste - HELLO WORLD!
+
+Primeiro repositório criado. Conhecendo as funcionalidades.
